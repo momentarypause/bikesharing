@@ -6,7 +6,7 @@ A potential investor has requested a bike trip analysis to solidify a proposal t
 For this repository I took the original csv file and converted the tripduration column (which was originally in integer format) to datetime format in order to be able to accurately visualize the length of time bikes were checked out.  Using this updated column and other columns in the dataset, I used Tableau to create a story of visualizations that would be helpful in determining what time bikes are frequently checked out and where they are returned. This information from New York City can be used as a starting point in a new bikesharing business in Des Moines to determine the least customer-disruptive times to maintain equipment (an important part of a solid business plan). Also included is a breakdown of gender and use.  This can be used by marketing for attempting to increase interest with the underrepresented portion of the population. 
 
 - **Language**: Python (Pandas library)
-- **Software**: Tableau
+- **Software**: Tableau, Jupyter Notebook
 - **Data Source**: csv file
 
 ## Results
